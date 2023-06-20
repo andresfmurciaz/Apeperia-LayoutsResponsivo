@@ -56,23 +56,15 @@
 
 
 
-@media screen  and (min-width:768px) {
-
-    
+@media screen  and (min-width:768px) { 
     .institucional__contacto-email{
-
         display: inline-block;
-
     }
 
     .institucional__video{
-
        width: 100%; 
     }
-
 }
-
-
 
 
 
