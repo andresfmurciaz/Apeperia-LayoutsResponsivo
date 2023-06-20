@@ -30,8 +30,16 @@
     font-weight: 700;
 }
 
+
+.sobre_nosotros__imagen{
+
+    display: none;
+}
+
+
 @media screen and (min-width: 1024px) {
-    .sobre_nosotros {
+  
+     .sobre_nosotros {
         display: flex;
     }
     .sobre_nosotros__contenido {
@@ -45,7 +53,7 @@
 
         padding-bottom: 1.5rem;
     }
-    .sobre-nosotros__imagen {
+    .sobre_nosotros__imagen {
         display: block;
     }
 }
