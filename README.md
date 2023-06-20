@@ -16,3 +16,6 @@ Analizar las limitaciones físicas de los dispositivos.
 Cómo trabajar con las imágenes del layout;
 Tags y los atributos que tienen más funciones de semántica de qué estilo;
 La importancia de escribir un código semántico.
+Crear estilos diferentes para diversos dispositivos con media queries;
+Adaptar la estructura y el contenido para diseños/layouts diferentes;
+Progredir de un diseño mobile hasta un diseño para desktop.
