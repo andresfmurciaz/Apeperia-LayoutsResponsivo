@@ -1,6 +1,6 @@
 # Proyecto Apeperia
 
-Archivos iniciales del proyecto para Apeperia del curso "Layouts Responsivos: Trabajando con layouts mobile", de Alura LATAM.
+Este repositorio contiene los archivos iniciales del proyecto Apeperia, desarrollado durante el curso "Layouts Responsivos: Trabajando con layouts mobile" de Alura LATAM. El proyecto se enfoca en el desarrollo de layouts responsivos para adaptarse a diferentes dispositivos, desde móviles hasta escritorios.
 
 se aprendio
 Analizar y separar el layout recibido;
@@ -19,3 +19,11 @@ La importancia de escribir un código semántico.
 Crear estilos diferentes para diversos dispositivos con media queries;
 Adaptar la estructura y el contenido para diseños/layouts diferentes;
 Progredir de un diseño mobile hasta un diseño para desktop.
+
+## Enlace de Implementación (Git Pages)
+
+La aplicación está disponible en línea a través de Git Pages. Puedes acceder [aquí](https://andresfmurciaz.github.io/Apeperia-LayoutsResponsivos/).
+
+
+---
+¡Gracias por revisar mi portafolio!
