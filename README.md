@@ -18,7 +18,7 @@ Este repositorio contiene los archivos iniciales del proyecto Apeperia, desarrol
 - La importancia de escribir un código semántico.
 - Crear estilos diferentes para diversos dispositivos con media queries;
 - Adaptar la estructura y el contenido para diseños/layouts diferentes;
-- Progredir de un diseño mobile hasta un diseño para desktop.
+- Proceder de un diseño mobile hasta un diseño para desktop.
 
 ## Enlace de Implementación (Git Pages)
 
