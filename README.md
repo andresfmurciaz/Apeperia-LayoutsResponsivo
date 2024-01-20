@@ -3,9 +3,9 @@
 Este repositorio contiene los archivos iniciales del proyecto Apeperia, desarrollado durante el curso "Layouts Responsivos: Trabajando con layouts mobile" de Alura LATAM. El proyecto se enfoca en el desarrollo de layouts responsivos para adaptarse a diferentes dispositivos, desde móviles hasta escritorios.
 
 ## Características y temas tratados
--Analizar y separar el layout recibido;
--Utilizar el EMMET para crear bloques de código HTML;
--Utilizar las unidades relativas REM y EM;
+- Analizar y separar el layout recibido;
+- Utilizar el EMMET para crear bloques de código HTML;
+- Utilizar las unidades relativas REM y EM;
 -Tipos de imágenes y SVGs.
 -Qué es y para qué sirve mobile-first;
 -Cómo funciona el initial-scale dentro del contenido Viewport;
